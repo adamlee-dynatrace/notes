@@ -1,0 +1,42 @@
+# .NET and Visual Studio specific files
+.vscode/
+.vs/
+bin/
+obj/
+TestResults/
+*.user
+*.suo
+*.cache
+
+# Windows folder attributes
+Desktop.ini
+Thumbs.db
+
+# .NET artifacts
+*.dll
+*.pdb
+*.exe
+*.userprefs
+
+# NuGet Packages
+*.nupkg
+packages/
+
+# User-specific files
+*.sln.docstates
+
+# Rider specific
+.idea/
+
+# Windows image file caches and directories
+ehthumbs.db
+ehthumbs_vista.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code settings
+.vscode/
